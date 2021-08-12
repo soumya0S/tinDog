@@ -54,7 +54,7 @@
    position:absolute;
    /* right: 30%; */
 }
-@media (max-width: 880px) {
+@media (max-width: 1005px) {
    .coverpic{
     width: 45%;
     align-content: center;
